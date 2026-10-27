@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.10.26)  26 OCT 2026 21:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.10.26)  27 OCT 2026 15:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1465,35 +1465,7 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 25.
 Writing index file main.idx
 Package translations Info: No language package found. I am going to use `englis
 h' as default language. on input line 29.
-(main.aux
-
-LaTeX Warning: Label `fig:placeholder' multiply defined.
-
-
-LaTeX Warning: Label `fig:placeholder' multiply defined.
-
-
-LaTeX Warning: Label `fig:placeholder' multiply defined.
-
-
-LaTeX Warning: Label `fig:placeholder' multiply defined.
-
-
-LaTeX Warning: Label `fig:placeholder' multiply defined.
-
-
-LaTeX Warning: Label `fig:placeholder' multiply defined.
-
-
-LaTeX Warning: Label `fig:placeholder' multiply defined.
-
-
-LaTeX Warning: Label `fig:placeholder' multiply defined.
-
-
-LaTeX Warning: Label `fig:placeholder' multiply defined.
-
-)
+(main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
@@ -1660,16 +1632,19 @@ L3 programming layer <2020/03/25>
  ***********
 
 
-LaTeX Warning: There were multiply-defined labels.
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
 
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 4D3B30D4AC28D882CD32A064F1EC2A5C;303.
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: A076A3EB32E2B0E941C106362154F703;306
+(rerunfilecheck)             After:  4D3B30D4AC28D882CD32A064F1EC2A5C;303.
  ) 
 Here is how much of TeX's memory you used:
- 54661 strings out of 467392
- 1330485 string characters out of 5406610
- 1976702 words of memory out of 5000000
- 83146 multiletter control sequences out of 15000+600000
+ 54660 strings out of 467392
+ 1330622 string characters out of 5406610
+ 1976615 words of memory out of 5000000
+ 83145 multiletter control sequences out of 15000+600000
  662789 words of font info for 108 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  108i,16n,118p,1196b,1332s stack positions out of 10000i,1000n,20000p,200000b,200000s
